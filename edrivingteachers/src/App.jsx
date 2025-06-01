@@ -2,8 +2,8 @@ import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import ForgotPassword from './components/Auth/ForgotPassword';
 import ProtectedRoute from './components/Auth/ProtectedRoute';
 import ResetPassword from './components/Auth/ResetPassword';
-import SignIn from './components/Auth/SignIn';
-import VerifyOTP from './components/Auth/VerifyOTP';
+import SignIn from './components/Auth/Signin';
+import VerifyOTP from './components/Auth/VerifyOtp';
 import Dashboard from './components/Dashboard/Dashboard';
 
 
